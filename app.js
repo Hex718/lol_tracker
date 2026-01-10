@@ -27,6 +27,7 @@ const DPM_LINKS = {
   "Talented Gambler#6969": "https://dpm.lol/Talented%20Gambler-6969",
   "Cargopin62#RedZN": "https://dpm.lol/Cargopin62-RedZN",
   "CaptainYordle#RedZN": "https://dpm.lol/CaptainYordle-RedZN",
+  "ElBlobi#blob": "https://dpm.lol/ElBlobi-blob",
 };
 
 function formatRiotName(p) {
