@@ -28,6 +28,7 @@ const DPM_LINKS = {
   "Cargopin62#RedZN": "https://dpm.lol/Cargopin62-RedZN",
   "CaptainYordle#RedZN": "https://dpm.lol/CaptainYordle-RedZN",
   "ElBlobi#blob": "https://dpm.lol/ElBlobi-blob",
+  "Chris Brown#EUW": "https://dpm.lol/Chris%20Br%CE%BFwn-EUW",
 };
 
 function formatRiotName(p) {
